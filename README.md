@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **nodejs typescript c# flutter firebase sqlserver mongodb**
 
-- 📫 How to reach me **filipecampos123@hotmail.com**
+- 📫 How to reach me **filipecampos123@hotmail.com** or **filipercampos123@gmail.com**
 
 - ⚡ Fun fact **I always updating me about technology**
 
