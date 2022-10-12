@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/filipercampos) but private
 
-- 💬 Ask me about **nodejs typescript c# flutter firebase sqlserver mongodb**
+- 💬 Ask me about **nodejs nestjs typescript c# flutter firebase sqlserver mongodb EC2 ECS ECR CloudFormation Docker Azure(App Service, Container Register) CI/CD**
 
 - 📫 How to reach me **filipecampos123@hotmail.com** or **filipercampos123@gmail.com**
 
