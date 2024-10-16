@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I always updating me about technology**
 
-- [Linkeding](https://www.linkedin.com/in/filipercampos)
+- [Linkedin](https://www.linkedin.com/in/filipercampos)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
