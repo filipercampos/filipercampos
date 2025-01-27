@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filipe Campos</h1>
 <h3 align="center"> Software Architect, focus on API Rest and Mobile Applications</h3>
 
-- 🌱 I’m **Architecture Software**
+- 🌱 I’m **Software Architecture**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/filipercampos) but private
 
