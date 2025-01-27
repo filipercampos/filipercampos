@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Filipe Campos</h1>
 <h3 align="center"> Software Architect, focus on API Rest and Mobile Applications</h3>
 
-- 🌱 I’m currently learning **Architecture Software**
+- 🌱 I’m **Architecture Software**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/filipercampos) but private
 
-- 💬 Ask me about **nodejs nestjs typescript c# flutter firebase sqlserver mongodb EC2 ECS ECR CloudFormation Docker Azure(App Service, Container Register) CI/CD**
+- 💬 Ask me about **nodejs nestjs typescript c# flutter firebase sqlserver mongodb EC2 ECS ECR CloudFormation,SQS,RabbitMQ, NestJS, Docker, Azure(App Service, Container Register) CI/CD and others**
 
 - 📫 How to reach me **filipecampos123@hotmail.com** or **filipercampos123@gmail.com**
 
