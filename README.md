@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe Campos</h1>
-<h3 align="center">Software Architect · Backend, distributed systems and AWS</h3>
+<h3 align="center">Solutions Architect · Web development specialist · AWS</h3>
 
 <p align="center">
   <a href="https://filipercampos.github.io"><b>🌐 Portfolio with interactive demos</b></a> ·
@@ -7,7 +7,7 @@
   <a href="mailto:filipecampos123@hotmail.com">filipecampos123@hotmail.com</a>
 </p>
 
-I design backend systems that must stay correct under concurrency, retries and partial failure. Every project below has its decisions written down as ADRs, tests that prove them (Testcontainers / LocalStack), infrastructure as code, and numbers that were actually measured, including the targets that were not met.
+I'm a solutions architect, currently in the mobility sector, with a background as a web development specialist. I design systems that must stay correct under concurrency, retries and partial failure. Every project below has its decisions written down as ADRs, tests that prove them (Testcontainers / LocalStack), infrastructure as code, and numbers that were actually measured, including the targets that were not met.
 
 ## 🏗️ Portfolio
 
@@ -19,6 +19,7 @@ I design backend systems that must stay correct under concurrency, retries and p
 | [**flash-sale-engine**](https://github.com/filipercampos/flash-sale-engine) | 285k buyers across k6 storms, zero oversell: atomic stock gate, rate limiting, waiting room | NestJS · Redis (Lua) · DynamoDB · SQS · k6 |
 | [**serverless-doc-pipeline**](https://github.com/filipercampos/serverless-doc-pipeline) | Multi-tenant ingestion surviving duplicate events and poison files, tenant isolation | AWS SAM · Lambda · S3 · SQS · DynamoDB · Powertools |
 | [**legacy-strangler-migration**](https://github.com/filipercampos/legacy-strangler-migration) | SQL Server → PostgreSQL without big-bang: CDC sync, single-writer rule, shadow reads, parity checks | NestJS · SQL Server · Aurora PostgreSQL · CDC |
+| [**filipercampos.github.io**](https://github.com/filipercampos/filipercampos.github.io) | The six projects as interactive in-browser demos, PT/EN, light/dark | React · TypeScript · Vite · GitHub Pages |
 
 ## 🧰 Core stack
 
@@ -42,6 +43,15 @@ I design backend systems that must stay correct under concurrency, retries and p
 
 **Practices:** Event-driven architecture · Saga · Transactional outbox / inbox · CQRS · Idempotency · Strangler fig · CDC · SLOs and burn-rate alerting · OpenTelemetry · ADRs · Threat modeling (STRIDE) · Load testing (k6) · Testcontainers
 
+## 📱 Mobile
+
+Outside the backend, Flutter is my favorite tool: cross-platform apps for Android and iOS from a single Dart codebase.
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="40" height="40" />
+</p>
+
 ## 🔧 Also worked with
 
 <p align="left">
@@ -49,7 +59,6 @@ I design backend systems that must stay correct under concurrency, retries and p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" title=".NET" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="32" height="32" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" title="Android" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="Ionic" title="Ionic" width="32" height="32" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="32" height="32" />
