@@ -49,7 +49,7 @@ Outside the backend, Flutter is my favorite tool: cross-platform apps for Androi
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**vehicle-inspection-checklist**](https://github.com/filipercampos/vehicle-inspection-checklist) | Pre-trip fleet inspection with an interactive 3D damage map: Blender-rendered turntables + per-pixel part map, no 3D engine at runtime | Flutter · Riverpod · go_router · Blender |
+| [**vehicle-inspection-checklist**](https://github.com/filipercampos/vehicle-inspection-checklist) · [live demo](https://filipercampos.github.io/vehicle-inspection-checklist/) | Pre-trip fleet inspection with an interactive 3D damage map: Blender-rendered turntables + per-pixel part map, no 3D engine at runtime | Flutter · Riverpod · go_router · Blender |
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="40" height="40" />
